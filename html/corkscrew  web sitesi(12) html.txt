@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Corkscrew - The Meme Coin Revolution</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e, #16213e);
+            color: white;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ffcc00;
+            padding: 20px;
+            font-size: 24px;
+            font-weight: bold;
+            color: black;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .section {
+            padding: 50px 20px;
+        }
+        .cta-button {
+            background-color: #ff5733;
+            padding: 15px 30px;
+            color: white;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 10px;
+            transition: 0.3s;
+        }
+        .cta-button:hover {
+            background-color: #ff2e00;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+        }
+        .tokenomics, .roadmap, .how-to-buy {
+            background-color: rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            margin: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        }
+        img {
+            width: 100px;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        🌀 Corkscrew - Twisting the Future of Memecoins! 🌀
+    </header>
+    
+    <div class="section">
+        <div class="container">
+            <h1>Welcome to Corkscrew!</h1>
+            <p>The meme coin that’s taking the community by storm. Hold, twist, and enjoy the ride!</p>
+            <a href="#how-to-buy" class="cta-button">Get Started</a>
+            <br><br>
+            <img src="https://via.placeholder.com/100" alt="Corkscrew Logo">
+        </div>
+    </div>
+    
+    <div class="section tokenomics" id="tokenomics">
+        <h2>🚀 Tokenomics</h2>
+        <p><strong>Total Supply:</strong> 1,000,000,000 $CRKS</p>
+        <p><strong>Distribution:</strong></p>
+        <p>🔥 50% Community</p>
+        <p>💧 25% Liquidity</p>
+        <p>🛠 15% Development</p>
+        <p>📢 10% Marketing</p>
+    </div>
+    
+    <div class="section roadmap" id="roadmap">
+        <h2>🛤 Roadmap</h2>
+        <p>✅ Q1: Launch & Community Building</p>
+        <p>🔜 Q2: Exchange Listings & Partnerships</p>
+        <p>🔜 Q3: NFT Integration & Airdrops</p>
+        <p>🔜 Q4: Future Developments</p>
+    </div>
+    
+    <div class="section how-to-buy" id="how-to-buy">
+        <h2>💰 How to Buy</h2>
+        <p>1️⃣ Get a crypto wallet</p>
+        <p>2️⃣ Buy BNB or ETH</p>
+        <p>3️⃣ Swap for $CRKS</p>
+        <p>4️⃣ Join our community & enjoy!</p>
+    </div>
+</body>
+</html>
